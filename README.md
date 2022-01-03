@@ -31,4 +31,4 @@ Konsep Program Latihan 2:
 - Dalam Program Latihan ke-2 ini, kita dapat memasukan variabel kedalam string dengan menggunakan format string dan menambahkan kurung kurawal "{}" untuk menempatkan variabel sebelumnya. maka outputnya adalah: 
 `Hello, nama saya john, dan umur saya adalah 24 tahun`
 
-[Kembali ke Pertemuan 12](https://github.com/kyuurazz/Labspy08#pertemuan-12)
+[Kembali ke Pertemuan 14](https://github.com/kyuurazz/Labspy08#pertemuan-14)
